@@ -1,0 +1,1 @@
+# SoloMinerV2
